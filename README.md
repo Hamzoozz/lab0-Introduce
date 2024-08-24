@@ -2,7 +2,7 @@
 
 Submitted by: **Hamza Banyhany**
 
-**Introduce Appp** is an app that allows one to introduce themselves for college! [TODO] 
+**Introduce App** is an app that allows one to introduce themselves for college!
 
 Time spent: **3** hours spent in total
 
@@ -14,7 +14,7 @@ Time spent: **3** hours spent in total
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Hamza Banyhany]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
